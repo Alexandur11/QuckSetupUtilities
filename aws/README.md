@@ -1,0 +1,1 @@
+SCP = https://github.com/aws-samples/service-control-policy-examples
